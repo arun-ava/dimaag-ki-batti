@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLUEUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashSen</string>
+    <string name="action_time_item">Time</string>
+    <string name="title_activity_control">ControlActivity</string>
+    <string name="action_switch">Switch</string>
+    <string name="action_dimmer">Dimmer</string>
+    <string name="title_activity_activity__add__bluetooth__devices">Activity_Add_Bluetooth_Devices</string>
+    <string name="title_activity_activity_exception_handler">ActivityExceptionHandler</string>
+
+</resources>
